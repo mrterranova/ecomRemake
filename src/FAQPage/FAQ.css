@@ -1,0 +1,11 @@
+.faq-header{
+border: 1px solid #ddd;
+margin: 0;
+height: auto;
+cursor: pointer;
+padding: 1em;
+background-color: #eaeaea;
+color: rgba(19, 9, 9, 0.7803921568627451);
+font-family: "Roboto", Sans-serif;
+font-weight: 400;
+}

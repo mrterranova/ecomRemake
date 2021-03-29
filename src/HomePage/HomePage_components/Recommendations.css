@@ -1,0 +1,30 @@
+.home-page-img{
+    background: no-repeat center;
+    width:100%;
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.recommendation-text{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    font-size: 16px;
+    text-align: center;
+    padding: 2% 10% 2% 10%;
+}
+
+.recommendation-text-subtitle{
+    font-size: 16px;
+}
+
+.transparent-div{
+    background-color:#000000;
+     width:100%;
+      min-height: 500px;
+       opacity:.5;
+}
